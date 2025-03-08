@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="papergo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/papergo.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
